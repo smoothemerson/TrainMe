@@ -1,4 +1,4 @@
-<h1 align="center"> Treine me </h1>
+<h1 align="center"> TreineMe </h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Treine me" src="./.github/preview.png" width="100%">
+  <img alt="TreineMe" src="./.github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
